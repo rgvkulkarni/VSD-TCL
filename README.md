@@ -1,2 +1,2 @@
 # VSD-TCL
-VSD-TCL WORKSHOP
+Comprehensive TCL Workshop: From Introduction to Advanced Scripting Techniques in Design and Synthesis
